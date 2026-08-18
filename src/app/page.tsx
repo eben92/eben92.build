@@ -39,9 +39,7 @@ export default function Page() {
 			<NavbarHome />
 
 			<p>
-				Welcome to my small corner of the internet. I'm eben, and I'm a
-				self-taught software engineer interested in web and serverless
-				technologies and DevOps practices.
+				Frontend first but I build backend systems too(Golang/Nodejs) and an AI engineer with over 8yrs of professional experience.
 			</p>
 
 			<h2 className="mb-4 mt-16 text-2xl font-bold">Projects</h2>
